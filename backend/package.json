@@ -1,0 +1,13 @@
+{
+  "name": "skpato-backend",
+  "version": "1.0.0",
+  "description": "REST API for skpato-frontend",
+  "main": "index.js",
+  "repository": "https://github.com/Gergi3/skpato",
+  "author": "Georgi Petrov",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
